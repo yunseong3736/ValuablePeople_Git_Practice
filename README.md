@@ -6,8 +6,6 @@
 
 ---
 
-[ ]
-
 ## Contribution
 
 ### Rule
