@@ -24,6 +24,7 @@
 
 **임직원 리스트**  
 | 이름 |이메일 주소|직위|직책|
-|-----|-----------------------|----|---|
-|조윤성|yunseong3736@gmail.com |대표|CTO|
-|김한결|rlagksruf7@naver.com |대표|CEO|
+|-----|-----------------------|----|-----|
+|조윤성|yunseong3736@gmail.com |대표| CTO |
+|김한결|rlagksruf7@naver.com |대표| CEO |
+|이상현|meer_kats@naver.com |직원|Staff|
